@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shembazai
-- 👀 I’m interested in data science.
+- 👀 I’m interested in Python coding.
 - 🌱 I’m currently learning it.
-- 💞️ I’m looking to collaborate on coding ethical AI.
+- 💞️ I’m looking to collaborate on coding ethical AI/AGI.
 - 📫 How to reach me : email.
 - 😄 Pronouns: Me... :D
 - ⚡ Fun fact: Maybe later.
