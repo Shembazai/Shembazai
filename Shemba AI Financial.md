@@ -1,3 +1,5 @@
+![Off-Grid AI Banner](https://github.com/Shembazai/Shembazai/blob/main/banner.png?raw=true)
+
 # 🔥 Shemba’s AI Financial System – Monthly Recap
 
 ## 🧠 AI Financial System – COMPLETE
