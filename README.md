@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning it.
 - 💞️ I’m looking to collaborate on coding ethical AI/AGI.
 - 📫 How to reach me : shembazai@gmail.com
-      For business related things: outofhtematrix2026@gmail.com
+
+---
 
 # 🔥 Shemba’s AI Financial System – Monthly Recap March 2025
 
