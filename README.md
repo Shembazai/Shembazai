@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python coding.
 - 🌱 I’m currently learning it.
 - 💞️ I’m looking to collaborate on coding ethical AI/AGI.
-- 📫 How to reach me : shembazai@gmail.com
+- 📫 How to reach me : github.com/shembazai
 
 ---
 
