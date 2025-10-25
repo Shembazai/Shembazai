@@ -33,4 +33,4 @@ A personal notebook for scripts, notes, and DevOps learning.
 
 ## 📫 Contact
 
-You can find me here on GitHub: (https://github.com.com/shembazai)
+You can find me here on GitHub: (https://github.com/shembazai)
